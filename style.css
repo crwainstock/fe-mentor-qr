@@ -12,6 +12,7 @@ h3 {
   font-size: 1.25vw;
   font-weight: 700;
   margin-top: 0.75em;
+  margin-bottom: 0.75em;
 }
 
 section {
@@ -34,12 +35,12 @@ img {
   margin: auto;
   background-color: #fffefe;
   border-radius: 8px;
-  max-width: 23.5%;
+  max-width: 23%;
   text-align: center;
 }
 
 .qr-text {
-  max-width: 78%;
+  max-width: 80%;
   display: block;
   margin: auto;
 
