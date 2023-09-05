@@ -1,12 +1,23 @@
 html,
 body {
-  background-color: black;
+  /* background-color: black; */
   font-family: "Outfit", sans-serif;
 }
 
+img {
+  max-width: 225px;
+}
+
 .app-container {
+  display: block;
+  margin: 0 auto;
   background-color: hsl(213, 46, 88);
   position: absolute;
   max-width: 1440px;
   height: 100%;
+}
+
+.qr-code-container {
+  display: block;
+  margin: 0 auto;
 }
