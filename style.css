@@ -4,23 +4,29 @@ body {
   font-family: "Outfit", sans-serif;
   margin: 0;
 }
+p {
+  font-size: 15px;
+}
 section {
   max-width: 81.5%;
   height: 100vh;
   display: block;
   margin: auto;
-  padding-top: 25vh;
+  padding-top: 20vh;
   background-color: #d4e0ef;
 }
 
 img {
-  max-width: 225px;
+  max-width: 208px;
+  border-radius: 8px;
+  margin-top: 4px;
 }
 
 .qr-code-container {
   display: block;
   margin: auto;
   background-color: #fffefe;
+  border-radius: 8px;
   max-width: 23.5%;
   text-align: center;
 }
