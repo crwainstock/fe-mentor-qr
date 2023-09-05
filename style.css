@@ -47,3 +47,13 @@ img {
   margin: auto;
   padding-bottom: 1.22rem;
 }
+
+.attribution {
+  display: block;
+  margin: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #fffefe;
+  text-align: center;
+}
+/* Add mobile styling below */
