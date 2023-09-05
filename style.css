@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 section {
-  width: 81.5%;
+  max-width: 81.5%;
   display: block;
   margin: 0 auto;
   background-color: #d4e0ef;
@@ -15,16 +15,9 @@ img {
   max-width: 225px;
 }
 
-/* .app-container {
-  display: block;
-  margin: 0 auto;
-  background-color: hsl(213, 46, 88);
-  position: absolute;
-  max-width: 1440px;
-  height: 100%;
-} */
-
 .qr-code-container {
   display: block;
   margin: 0 auto;
+  background-color: #fffefe;
+  max-width: 23%;
 }
