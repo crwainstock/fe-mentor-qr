@@ -1,4 +1,12 @@
+html,
 body {
   background-color: black;
   font-family: "Outfit", sans-serif;
+}
+
+.app-container {
+  background-color: hsl(213, 46, 88);
+  position: absolute;
+  max-width: 1440px;
+  height: 100%;
 }
