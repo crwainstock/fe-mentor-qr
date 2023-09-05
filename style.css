@@ -1,11 +1,12 @@
 html,
 body {
-  /* background-color: black; */
+  background-color: black;
   font-family: "Outfit", sans-serif;
   margin: 0;
 }
 section {
   max-width: 81.5%;
+  height: 100vh;
   display: block;
   margin: 0 auto;
   background-color: #d4e0ef;
@@ -20,4 +21,5 @@ img {
   margin: 0 auto;
   background-color: #fffefe;
   max-width: 23%;
+  text-align: center;
 }
