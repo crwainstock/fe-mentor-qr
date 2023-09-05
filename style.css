@@ -8,6 +8,12 @@ p {
   font-size: 0.85vw;
 }
 
+h3 {
+  font-size: 1.25vw;
+  font-weight: 700;
+  margin-top: 0.75em;
+}
+
 section {
   max-width: 81.5%;
   height: 100vh;
@@ -30,4 +36,12 @@ img {
   border-radius: 8px;
   max-width: 23.5%;
   text-align: center;
+}
+
+.qr-text {
+  max-width: 78%;
+  display: block;
+  margin: auto;
+
+  padding-bottom: 1rem;
 }
