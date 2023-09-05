@@ -8,7 +8,8 @@ section {
   max-width: 81.5%;
   height: 100vh;
   display: block;
-  margin: 0 auto;
+  margin: auto;
+  padding-top: 25vh;
   background-color: #d4e0ef;
 }
 
@@ -18,8 +19,8 @@ img {
 
 .qr-code-container {
   display: block;
-  margin: 0 auto;
+  margin: auto;
   background-color: #fffefe;
-  max-width: 23%;
+  max-width: 23.5%;
   text-align: center;
 }
