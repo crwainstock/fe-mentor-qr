@@ -5,13 +5,14 @@ body {
   margin: 0;
 }
 p {
-  font-size: 0.85vw;
+  font-size: 0.865vw;
+  line-height: 1.15;
 }
 
 h3 {
   font-size: 1.25vw;
   font-weight: 700;
-  margin-top: 0.75em;
+  margin-top: 0.8em;
   margin-bottom: 0.75em;
 }
 
@@ -20,29 +21,29 @@ section {
   height: 100vh;
   display: block;
   margin: auto;
-  padding-top: 18vh;
+  padding-top: 19vh;
   background-color: #d4e0ef;
 }
 
 img {
-  max-width: 208px;
+  max-width: 206px;
   border-radius: 8px;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
 }
 
 .qr-code-container {
   display: block;
   margin: auto;
   background-color: #fffefe;
-  border-radius: 8px;
-  max-width: 23%;
+  border-radius: 15px;
+  max-width: 22.5%;
   text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .qr-text {
   max-width: 80%;
   display: block;
   margin: auto;
-
-  padding-bottom: 1rem;
+  padding-bottom: 1.22rem;
 }
