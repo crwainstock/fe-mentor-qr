@@ -11,6 +11,8 @@ The designs were created to the following widths:
 
 - White: hsl(0, 0%, 100%)
 - Light gray: hsl(212, 45%, 89%)
+  hsl(213, 46, 88)
+  rgba(212,224,239,255)
 - Grayish blue: hsl(220, 15%, 55%)
 - Dark blue: hsl(218, 44%, 22%)
 
