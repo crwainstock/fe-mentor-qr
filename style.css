@@ -5,21 +5,22 @@ body {
   margin: 0;
 }
 p {
-  font-size: 15px;
+  font-size: 0.85vw;
 }
+
 section {
   max-width: 81.5%;
   height: 100vh;
   display: block;
   margin: auto;
-  padding-top: 20vh;
+  padding-top: 18vh;
   background-color: #d4e0ef;
 }
 
 img {
   max-width: 208px;
   border-radius: 8px;
-  margin-top: 4px;
+  margin-top: 1rem;
 }
 
 .qr-code-container {
