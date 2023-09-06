@@ -96,7 +96,7 @@ img {
 @media (max-width: 376px) {
   section {
     width: 100%;
-    padding-top: 15vh;
+    padding-top: 25vh;
     height: 100vh;
   }
 
@@ -106,7 +106,7 @@ img {
     margin-top: 0.75rem;
   }
   .qr-code-container {
-    max-width: 75%;
+    max-width: 90%;
   }
   p {
     font-size: 3vw;
