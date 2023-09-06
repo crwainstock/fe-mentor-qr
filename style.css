@@ -26,6 +26,7 @@ section {
 }
 
 img {
+  display: flex;
   max-width: 206px;
   border-radius: 8px;
   margin-top: 0.75rem;
@@ -46,7 +47,8 @@ img {
 
 .qr-text {
   max-width: 80%;
-  display: block;
+  display: flex;
+  flex-direction: column;
   margin: auto;
   padding-bottom: 1.3rem;
 }
