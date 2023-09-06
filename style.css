@@ -1,3 +1,4 @@
+/* Default styling */
 html,
 body {
   background-color: black;
@@ -18,7 +19,7 @@ h3 {
 
 section {
   max-width: 82%;
-  height: 73vh;
+  height: 82vh;
   display: block;
   margin: auto;
   padding-top: 10vh;
@@ -61,12 +62,13 @@ img {
   background-color: #fffefe;
   text-align: center;
 }
-/* Add mobile styling below */
+
+/* Medium screens */
 @media only screen and (min-width: 377px) and (max-width: 800px) {
   section {
     width: 100%;
     padding-top: 7vh;
-    height: 90vh;
+    height: 82vh;
   }
 
   img {
@@ -96,7 +98,8 @@ img {
   }
 }
 
-@media (max-width: 376px) {
+/* Smaller mobile devices */
+@media only screen and (max-width: 376px) {
   section {
     width: 100%;
     padding-top: 17vh;
