@@ -72,8 +72,11 @@ img {
   }
 
   img {
-    max-width: 100px;
+    max-width: 80%;
     border-radius: 8px;
     margin-top: 0.75rem;
+  }
+  .qr-code-container {
+    max-width: 90%;
   }
 }
