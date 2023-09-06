@@ -13,7 +13,7 @@ h3 {
   font-size: 1.25vw;
   font-weight: 700;
   margin-top: 0.8em;
-  margin-bottom: 0.75em;
+  margin-bottom: 0em;
 }
 
 section {
@@ -21,7 +21,7 @@ section {
   height: 73vh;
   display: block;
   margin: auto;
-  padding-top: 19vh;
+  padding-top: 10vh;
   background-color: #d4e0ef;
 }
 
@@ -76,6 +76,9 @@ img {
   }
   .qr-code-container {
     max-width: 73%;
+  }
+  .qr-text {
+    padding-bottom: 0.75rem;
   }
   p {
     font-size: 3vw;
