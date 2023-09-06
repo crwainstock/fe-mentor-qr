@@ -66,11 +66,8 @@ img {
 @media (max-width: 376px) {
   section {
     width: 100%;
-    height: 73vh;
-    display: block;
-    margin: auto;
     padding-top: 15vh;
-    background-color: #d4e0ef;
+    height: 100vh;
   }
 
   img {
