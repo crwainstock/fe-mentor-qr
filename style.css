@@ -93,9 +93,9 @@ img {
     margin-top: 0.9em;
     margin-bottom: 0.5em;
   }
-  .attribution {
+  /* .attribution {
     display: none;
-  }
+  } */
 }
 
 /* Smaller mobile devices */
@@ -103,7 +103,7 @@ img {
   section {
     width: 100%;
     padding-top: 17vh;
-    height: 100vh;
+    height: 82vh;
   }
 
   img {
@@ -125,7 +125,7 @@ img {
     margin-top: 0.9em;
     margin-bottom: 0.8em;
   }
-  .attribution {
+  /* .attribution {
     display: none;
-  }
+  } */
 }
