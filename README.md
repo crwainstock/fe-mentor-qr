@@ -25,5 +25,5 @@ With this project, I used [PerfectPixel](https://www.welldonecode.com/perfectpix
 
 Do you want to see this little, baby component out in the wild? Well, for better or worse, it just lives all by itself in its own personal repo. But! You can check out [the deployed version here](https://visionary-croquembouche-31b073.netlify.app/).
 
-And here's a video showing the progression of the development.
+And here's a gif showing my version compared to the reference design using PerfectPixel.
 ![a video showing the progression of the development.](./dev-gif.gif)
