@@ -23,4 +23,7 @@ With this project, I used [PerfectPixel](https://www.welldonecode.com/perfectpix
 
 ## 👀 Demo & Live Version
 
-Do you want to see this little, baby component out in the wild? Well, sadly, it just lives all by itself in its own personal repo. But! You can check out [the deployed version here](https://visionary-croquembouche-31b073.netlify.app/).
+Do you want to see this little, baby component out in the wild? Well, for better or worse, it just lives all by itself in its own personal repo. But! You can check out [the deployed version here](https://visionary-croquembouche-31b073.netlify.app/).
+
+And here's a video showing the progression of the development.
+![a video showing the progression of the development.](./fe%20mentor%20qr%20almost%20done.mp4)
